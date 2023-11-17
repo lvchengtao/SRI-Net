@@ -1,5 +1,5 @@
 # SRI-Net
-## SRI-Net: Similarity Retrieval-based Inference Network for Light Field Salient Object Detection
+## 'SRI-Net: Similarity Retrieval-based Inference Network for Light Field Salient Object Detection'
 ## 1. Usage
 - Train this model:
 
